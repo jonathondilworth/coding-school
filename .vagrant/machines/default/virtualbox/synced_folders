@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/intro-to-web-dev":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/intro-to-web-dev","hostpath":"/Users/jonathondilworth/Desktop/intro-to-web-dev","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/jonathondilworth/Desktop/intro-to-web-dev","disabled":false,"__vagrantfile":true}}}
